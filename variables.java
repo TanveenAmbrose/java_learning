@@ -3,6 +3,7 @@ public class variables {
         int sum, a=10 , b=5;
         sum = a+b;
         System.out.println(sum);
-
+        String name = "Tanveen Ambrose";
+        System.out.println(name);
     }
 }
