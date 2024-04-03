@@ -6,7 +6,7 @@ public class primenumber {
         int n = sc.nextInt();
         int i;
         if(n == 2){
-            System.out.println(n + "is a prime number");
+            System.out.println(n + " is a prime number");
         }
         
        
@@ -18,10 +18,10 @@ public class primenumber {
                 }
             }
                 if (forPrime == true) {
-                    System.out.println(n + "is a prime number");
+                    System.out.println(n + " is a prime number");
                 }
                 else{
-                    System.out.println(n + "is not a prime number");
+                    System.out.println(n + " is not a prime number");
                 }
             
 
